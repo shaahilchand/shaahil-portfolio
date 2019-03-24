@@ -1,5 +1,7 @@
 # Shaahil Shamal Chand Portfolio
 
+Check out my portfolio: https://shaahilchand.github.io/shaahil-portfolio/
+
 ## Git:
 https://github.com/shaahilchand?tab=repositories
 
