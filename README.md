@@ -11,45 +11,45 @@ The tech stack to build and design the portfolio include:
 
 ## Sitemap:
 This is the way the portfolio is set up and it can be seen that the navigation and social media links are repearted throughout.
-<img src="sitemap.jpg">
+![](portfolio/docs/sitemap.jpg)
 
 ## Screenshots:
 
 ### Home
-<img src="homescreen.jpg">
+![](portfolio/docs/homescreen.PNG)
 
 ### About
-<img src="aboutscreen.jpg">
+![](portfolio/docs/aboutscreen.PNG)
 
 ### Skills
-<img src="skillsscreen.jpg">
+![](portfolio/docs/skillsscreen.PNG)
 
 ### Work
-<img src="workscreen.jpg">
+![](portfolio/docs/workscreen.PNG)
 
 ## Desgin Process:
 The basic wireframe for the portfolio. 
 
 ### Home Design
-<img src="home.jpg">
+![](portfolio/docs/home.jpg)
 
 ### About Design
-<img src="about.jpg">
+![](portfolio/docs/about.jpg)
 
 ### Skills Design
-<img src="skills.jpg">
+![](portfolio/docs/skills.jpg)
 
 ### Work Design
 
-<img src="work.jpg">
+![](portfolio/docs/work.jpg)
 
 ## Trello:
 First steps of everything I was planning to implement in my portfolio.
-<img src="trello1.png">
+![](portfolio/docs/trello1.PNG)
 
 What I have accomplished and needed to continue, unfortunately some aspects had to be cut, however, they will be implemented in future. 
 
-<img src="trello2.png">
+![](portfolio/docs/trello2.PNG)
 
 ## Timeline
 
